@@ -7,7 +7,7 @@ This is a basic boilerplate for React/Redux projects.
 1. Clone the repo
 2. Run `npm install` to install necessary npm modules
 3. Run `npm start` to set up the Javascript bundle
-4. Open `./public/index.html` to see boilerplate content
+4. Open `public/index.html` to see boilerplate content
 
 ### Bugs 
 
